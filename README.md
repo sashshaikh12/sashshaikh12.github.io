@@ -3,7 +3,7 @@ my name is **Hashir Shaikh**. Currently a 2nd year CSE undergraduate at ~~IIT bo
 
 
 # *My Interests:*
- i am `enthusistiac` about ==Competitive Programming==, web development and learning new languages.
+ i am `enthusistiac` about Competitive Programming, web development and learning new languages.
  
  Coding Profiles | Links
  --------------- | -----
